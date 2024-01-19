@@ -7,5 +7,7 @@
 body {
   height: 50vh;
   background-color: rgb(11, 11, 94);
+  background-image: url('./assets/map.jpg');
+  background-size: cover;
   font-family: 'Raleway', sans-serif;
 }

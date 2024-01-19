@@ -56,6 +56,8 @@ const Quiz = () => {
     setLock(false);
     setResult(false);
   }
+
+
   return (
     <div className="container">
       <h1> Quiz App</h1>
