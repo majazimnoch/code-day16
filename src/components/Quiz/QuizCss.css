@@ -45,6 +45,11 @@
     font-weight: 500;
     border-radius: 8px;
     cursor: pointer;
+    border:none;
+}
+
+.container button:hover {
+    background-color: #6046ac;
 }
 
 .container .index {
